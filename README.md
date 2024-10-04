@@ -39,12 +39,28 @@ Arrays são estruturas de dados **indexados** =, também conhecidos como **vetor
 
 Na prática, um array é uma lista de dados sequenciais, e cada dado é armazenado em uma posição/índice do array.
 
-**Obs.:** a contagem de elementos do array **sempre inicia em zero**.
 
 ---
 
-## Sobre Objetos
+## Sobre Condicionais
 
-Objetos também são estruturas de dados só que **não-indexados**, ou seja, o acesso aos dados é feita de forma diferente do que vimos nos arrays. No objeto, acessamos através de **propriedades** e **valores** declarados dentro do objeto.
+São estruturas/comandos que permitem analisar uma ou mais condições dentro de uma aplicação.
 
-Normalmente, o objeto é programado de acordo com algum contexto relacionado ao mundo real.
+De acordo com o resultado desta análise, podendo ser **verdadeiro/true** ou **falso/false**, a aplicação poderá fazer ações diferentes.
+
+## Operadores relacionados
+
+Ao traballhar com condicionais, é comum utilizar operações relacionais para comparações dentro das condições. Os operadores mais comuns são:
+
+- Maior que    >
+- Menor que    <
+- Maior ou igual >=
+- Menor ou igual <=
+- Igualdade ==
+- Diferença !=
+
+## Sobre comandos de repetição
+
+São estruturas/comandos que permitem a execução repetidas vezes de uma ou mais ações/comandos/operações. Também conhecidos como **loops** ou **laços de repetição**.
+
+A quantidade de vezes que o loop será executado dependerá de alguma lógica ou condição definida pelo programador ou pelo sistema/aplicação. Também é comum que, para que o loop pare de executar, seja definida uma variável de controle de repetição.
